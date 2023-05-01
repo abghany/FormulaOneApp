@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FormulaOneApp.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/primary_red</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_screen_logo</item>
+        <item name="windowSplashScreenAnimationDuration">5000</item>
+        <item name="postSplashScreenTheme">@style/Theme.FormulaOneApp</item>
+    </style>
+</resources>

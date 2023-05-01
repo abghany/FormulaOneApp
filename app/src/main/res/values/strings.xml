@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Formula 1</string>
+
+    <string name="teams">Teams</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="no_data">There is no favorite yet</string>
+    <string name="not_found">Driver not found</string>
+    <string name="placeholder_search">Find your favorite driver…</string>
+</resources>
